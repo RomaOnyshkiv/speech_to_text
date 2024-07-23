@@ -1,0 +1,5 @@
+moviepy~=1.0.3
+googletrans==4.0.0-rc1
+SpeechRecognition~=3.10.4
+pydub~=0.25.1
+ffmpeg-python~=0.2.0
